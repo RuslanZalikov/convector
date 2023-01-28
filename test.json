@@ -1,0 +1,546 @@
+{
+  "id": 3,
+  "data": {
+    "ocr": "/data/upload/2/b0f6f690-test_6.jpeg"
+  },
+  "annotations": [
+    {
+      "id": 3,
+      "created_username": " r.a.zalikov@mtuci.ru, 1",
+      "created_ago": "23 hours, 7 minutes",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "r.a.zalikov@mtuci.ru",
+        "initials": "r."
+      },
+      "result": [
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.994449660159123,
+            "y": 26.756474389550156,
+            "width": 4.540217812260177,
+            "height": 1.5550246006991106,
+            "rotation": 0
+          },
+          "id": "Gz3XqUzhXM",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.994449660159123,
+            "y": 26.756474389550156,
+            "width": 4.540217812260177,
+            "height": 1.5550246006991106,
+            "rotation": 0,
+            "labels": [
+              "Номер счета"
+            ]
+          },
+          "id": "Gz3XqUzhXM",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.994449660159123,
+            "y": 26.756474389550156,
+            "width": 4.540217812260177,
+            "height": 1.5550246006991106,
+            "rotation": 0,
+            "text": [
+              "3502"
+            ]
+          },
+          "id": "Gz3XqUzhXM",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.25879815977513,
+            "y": 26.838317789587173,
+            "width": 17.139322241282414,
+            "height": 1.8005548008092898,
+            "rotation": 0
+          },
+          "id": "M53Emmnr5_",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.25879815977513,
+            "y": 26.838317789587173,
+            "width": 17.139322241282414,
+            "height": 1.8005548008092898,
+            "rotation": 0,
+            "labels": [
+              "Дата счета"
+            ]
+          },
+          "id": "M53Emmnr5_",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.25879815977513,
+            "y": 26.838317789587173,
+            "width": 17.139322241282414,
+            "height": 1.8005548008092898,
+            "rotation": 0,
+            "text": [
+              "30 апреля 2020 г."
+            ]
+          },
+          "id": "M53Emmnr5_",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 30.112053791058766,
+            "width": 17.366333131895168,
+            "height": 1.3913378006255197,
+            "rotation": 0
+          },
+          "id": "m-kzJY5P4p",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 30.112053791058766,
+            "width": 17.366333131895168,
+            "height": 1.3913378006255197,
+            "rotation": 0,
+            "labels": [
+              "Наименование продавца"
+            ]
+          },
+          "id": "m-kzJY5P4p",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 30.112053791058766,
+            "width": 17.366333131895168,
+            "height": 1.3913378006255197,
+            "rotation": 0,
+            "text": [
+              "ООО \"КАРГО-ЭКСПРЕСС\""
+            ]
+          },
+          "id": "m-kzJY5P4p",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.253037753261594,
+            "y": 30.275740591132354,
+            "width": 7.491359390229289,
+            "height": 1.227651000551929,
+            "rotation": 0
+          },
+          "id": "hAuXJPdP18",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.253037753261594,
+            "y": 30.275740591132354,
+            "width": 7.491359390229289,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "labels": [
+              "ИНН продавца"
+            ]
+          },
+          "id": "hAuXJPdP18",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.253037753261594,
+            "y": 30.275740591132354,
+            "width": 7.491359390229289,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "text": [
+              "7723831352"
+            ]
+          },
+          "id": "hAuXJPdP18",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.49007683860553,
+            "y": 30.19389719109556,
+            "width": 6.696821273083761,
+            "height": 1.3913378006255197,
+            "rotation": 0
+          },
+          "id": "H7KXvyaddA",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.49007683860553,
+            "y": 30.19389719109556,
+            "width": 6.696821273083761,
+            "height": 1.3913378006255197,
+            "rotation": 0,
+            "labels": [
+              "КПП продавца"
+            ]
+          },
+          "id": "H7KXvyaddA",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.49007683860553,
+            "y": 30.19389719109556,
+            "width": 6.696821273083761,
+            "height": 1.3913378006255197,
+            "rotation": 0,
+            "text": [
+              "772301001"
+            ]
+          },
+          "id": "H7KXvyaddA",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 33.79500679271455,
+            "width": 20.657991045783792,
+            "height": 1.227651000551929,
+            "rotation": 0
+          },
+          "id": "6F0zJKgQTI",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 33.79500679271455,
+            "width": 20.657991045783792,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "labels": [
+              "Наименование покупателя"
+            ]
+          },
+          "id": "6F0zJKgQTI",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.914014035638775,
+            "y": 33.79500679271455,
+            "width": 20.657991045783792,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "text": [
+              "ООО \"Системные технологии\""
+            ]
+          },
+          "id": "6F0zJKgQTI",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.43119022184372,
+            "y": 33.71316339267775,
+            "width": 7.604864835535791,
+            "height": 1.227651000551929,
+            "rotation": 0
+          },
+          "id": "c7mSIl0Phj",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.43119022184372,
+            "y": 33.71316339267775,
+            "width": 7.604864835535791,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "labels": [
+              "ИНН покупателя"
+            ]
+          },
+          "id": "c7mSIl0Phj",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.43119022184372,
+            "y": 33.71316339267775,
+            "width": 7.604864835535791,
+            "height": 1.227651000551929,
+            "rotation": 0,
+            "text": [
+              "7726588120"
+            ]
+          },
+          "id": "c7mSIl0Phj",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.55472386188115,
+            "y": 33.79500679271455,
+            "width": 6.810326718390263,
+            "height": 1.145807600515131,
+            "rotation": 0
+          },
+          "id": "mrYnWdbIfp",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.55472386188115,
+            "y": 33.79500679271455,
+            "width": 6.810326718390263,
+            "height": 1.145807600515131,
+            "rotation": 0,
+            "labels": [
+              "КПП покупателя"
+            ]
+          },
+          "id": "mrYnWdbIfp",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.55472386188115,
+            "y": 33.79500679271455,
+            "width": 6.810326718390263,
+            "height": 1.145807600515131,
+            "rotation": 0,
+            "text": [
+              "772301001"
+            ]
+          },
+          "id": "mrYnWdbIfp",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 87.2873901256715,
+            "y": 46.39889039838102,
+            "width": 6.015788601244735,
+            "height": 1.3094944005887268,
+            "rotation": 0
+          },
+          "id": "DpPOD1wWsM",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectangle",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 87.2873901256715,
+            "y": 46.39889039838102,
+            "width": 6.015788601244735,
+            "height": 1.3094944005887268,
+            "rotation": 0,
+            "labels": [
+              "Итоговая сумма счета"
+            ]
+          },
+          "id": "DpPOD1wWsM",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "labels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 922,
+          "original_height": 1280,
+          "image_rotation": 0,
+          "value": {
+            "x": 87.2873901256715,
+            "y": 46.39889039838102,
+            "width": 6.015788601244735,
+            "height": 1.3094944005887268,
+            "rotation": 0,
+            "text": [
+              "3 500,00"
+            ]
+          },
+          "id": "DpPOD1wWsM",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2023-01-27T13:58:34.058204Z",
+      "updated_at": "2023-01-27T13:58:34.058406Z",
+      "lead_time": 323.281,
+      "task": 3,
+      "project": 2,
+      "parent_prediction": null,
+      "parent_annotation": null
+    }
+  ],
+  "predictions": []
+}
